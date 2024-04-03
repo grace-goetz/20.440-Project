@@ -7,3 +7,7 @@ Project.Rproj filter=lfs diff=lfs merge=lfs -text
 Project/DataCleaningStages.RData filter=lfs diff=lfs merge=lfs -text
 Project/DataCleaningStagesPhylums.RData filter=lfs diff=lfs merge=lfs -text
 Project/phylumquantities.RData filter=lfs diff=lfs merge=lfs -text
+20.440 filter=lfs diff=lfs merge=lfs -text
+phylumquantities.RData filter=lfs diff=lfs merge=lfs -text
+DataCleaningStagesPhylums.RData filter=lfs diff=lfs merge=lfs -text
+.RData filter=lfs diff=lfs merge=lfs -text
